@@ -1,6 +1,6 @@
-print("Hello World")
+print("Hello World");
 
-msg = "Roll the dice!"
+
+msg = "Roll a dice!"
 
 print(msg)
-
